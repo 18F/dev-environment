@@ -13,7 +13,7 @@ When developing and maintaining software several environments will be needed. Us
 * Dev (development)
     * Where developers have free rein(Admin) to do whatever they need to for development, such as install software for evaluation, test new architecures, or test production install instructions. 
     * Code changes from Dev will most likely create new Int builds.
-    * Dev should be "sandboxed" from other environments to prevent any accidents to other resources.
+    * each environment should be "sandboxed" from other environments to prevent any accidents to other resources.
 * Int (integration)
     * Where developers combine code from everyone and test to make sure they merged correctly, and it works as expected. 
     * Builds that pass in Int can be passed to Test for possible use in Prod.
