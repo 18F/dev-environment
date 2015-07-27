@@ -37,3 +37,6 @@ repos:
 brand_color: "#1188ff"
 
 google_analytics_ua: UA-48605964-19
+
+redcarpet:
+    extensions: [with_toc_data]
