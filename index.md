@@ -10,7 +10,7 @@ environment.
 ##<a name="automation"></a> Automation
 Automation brings several advantages to your development environment. Some of these are: 
 
-* It increases speed and reduces the likelyhood of an error.
+* It increases speed and reduces the likelihood of an error.
 * Automated processes can be tested, just like the code that is written by developers.
 * It can be version controlled. Each change is recorded in the version control along with comments as to why that change needed to happen; with manual steps there is no such history.
 * It lets testers and developers spend more time on adding or fixing functionality instead of monotonous tasks.
@@ -46,7 +46,7 @@ When developing and maintaining software several environments will be needed. Us
     * Where the built software is deployed for use by all users. 
     * Actual data is entered, and software provides value. 
     * Developers to have as little admin access as needed. 
-    * Prod also has a well defined process for deploying new test builds that have been promoted. See [Build Promotion] (#build-promotion) below.
+    * Prod also has a well defined process for deploying new test builds that have been promoted. See [Build Promotion](#build-promotion) below.
 
 It should be noted that most (if not all) environments will need the full set of developer tools. Also, each environment should be sandboxed from each other to prevent resources from accidents.
 
