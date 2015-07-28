@@ -58,10 +58,11 @@ Installing software updates promptly is a key security measure and avoids discre
 * System administrators and developers should agree on a deployment mechanism including a rollback process to reduce the risk of proactively installing system updates
 
 ## <a name="build-promotion"></a> Build promotion
-Every code check in creates a potentially deployable artifact due to Continuous integration server building after each code check in. Therefore a well defined and version controlled process for promoting a build from Dev(or continuous integration artifact)->Test->Staging->Prod needs to exist.
+* Every code commit to version control creates a potentially deployable artifact in the Continuous integration server. Therefore a well defined and version controlled process for promoting a build from Dev(or continuous integration artifact)->Test->Staging->Prod needs to exist.
+* These built artifacts should not change when deploying to multiple environments(i.e. built once), and are stored in a artifact repository for easy retrieval. This ensures that the built product is the same when testing in each environment, and that only configuration changes(if any) are different between environments.
 
 ## <a name="self-provisioning"></a> Self Provisioning
-Developers can create and delete systems on-demand, with group alloction and quotas as needed to avoid over-commiting resources. These self-provisioned systems with documented exceptions for network configuration, autherntication, etc. All services should be developed using SSL. This requires a self-service system to issue certificates, so that applications can be developed and tested using the same configuration used in production.
+Developers can create and delete systems on-demand, with group alloction and quotas as needed to avoid over-commiting resources. These self-provisioned systems are identical with documented exceptions for network configuration, autherntication, etc. All services should be developed using SSL for proper testing. This requires a self-service system to issue certificates, so that applications can be developed and tested using the same configuration used in production.
 
 ## <a name="service-contract"></a> Service Contract with System Administrators
 There is a defined support contract specifying a base-line level of service and software support. This should include but is not limited to:
