@@ -27,6 +27,27 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
+- text: People not Systems
+  url: people/
+  internal: true
+- text: Self Provisioning
+  url: self-provisioning/
+  internal: true
+- text: Automation
+  url: automation/
+  internal: true
+- text: Environments 
+  url: environments/
+  internal: true
+- text: Updates
+  url: updates/
+  internal: true
+- text: Build Promotion
+  url: build-promotion/
+  internal: true
+- text: Service Contracts
+  url: service-contracts/
+  internal: true
 
 repos:
 - name: Development Environment
