@@ -10,5 +10,3 @@ This should include but isn't limited to:
 * System configuration is managed in a version control system and should be automatically applied for consistency.
 * Defining a base operating system and pre-approved software repositores (like YUM or DEB) for common components like PHP or Python
 
-_Note that this is a work in progress; we'll be adding more content
-shortly._
