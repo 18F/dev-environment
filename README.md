@@ -1,6 +1,6 @@
-## 18F Development Environment Guide
+## 18F development environment guide
 
-Guide to creating a suitable development environment in which to apply the
+Welcome to our guide to creating a suitable development environment in which to apply the
 best practices described in other [18F Guides](https://pages.18f.gov/guides/).
 Based on the [18F Guides Template](https://github.com/18F/guides-template/).
 
@@ -51,7 +51,7 @@ be able to access this site.
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+> This project is in the public domain within the United States, and copyright and related rights in the work world wide are waived through the [CC0 1.0 universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 >
 > All contributions to this project will be released under the CC0
 >dedication. By submitting a pull request, you are agreeing to comply
