@@ -48,6 +48,9 @@ navigation:
 - text: Service Contracts
   url: service-contracts/
   internal: true
+- text: Continuous Integration
+  url: continuous-integration/
+  internal: true
 
 repos:
 - name: Development Environment
