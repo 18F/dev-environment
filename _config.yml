@@ -1,6 +1,6 @@
 baseurl: /dev-environment
 markdown: redcarpet
-name: 18F Development Environment Guide [DRAFT]
+name: 18F Development Environment Guide
 exclude:
 - go
 - copy-template
