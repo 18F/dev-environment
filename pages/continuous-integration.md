@@ -6,7 +6,7 @@ title: Continuous integration
 <a name="continuous-integration"></a>
 Continuous integration is the practice of testing each change done to your codebase automatically and as early as possible. 
 
-### Costs and Benefits
+### Costs and benefits
 Costs:
 
 * Constructing automated test suites, and automating actions is considerable work. This is never considered done, as new tests are required for new functionality or to ensure found bugs do not get reintroduced.
