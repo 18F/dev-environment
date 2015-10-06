@@ -39,7 +39,7 @@ navigation:
 - text: Environments 
   url: environments/
   internal: true
-- text: Updates
+- text: Update schedule
   url: updates/
   internal: true
 - text: Build promotion
