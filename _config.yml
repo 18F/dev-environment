@@ -27,10 +27,10 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: People not Systems
+- text: People not systems
   url: people/
   internal: true
-- text: Self Provisioning
+- text: Self provisioning
   url: self-provisioning/
   internal: true
 - text: Automation
@@ -42,13 +42,13 @@ navigation:
 - text: Updates
   url: updates/
   internal: true
-- text: Build Promotion
+- text: Build promotion
   url: build-promotion/
   internal: true
-- text: Service Contracts
+- text: Service contracts
   url: service-contracts/
   internal: true
-- text: Continuous Integration
+- text: Continuous integration
   url: continuous-integration/
   internal: true
 
