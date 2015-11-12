@@ -1,6 +1,5 @@
 ---
 permalink: /automation/
-layout: default
 title: Automation
 ---
 <a name="automation"></a>

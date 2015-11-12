@@ -1,6 +1,5 @@
 ---
 permalink: /self-provisioning/
-layout: default
 title: Self provisioning
 ---
 <a name="self-provisioning"></a>
