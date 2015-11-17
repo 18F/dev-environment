@@ -1,6 +1,5 @@
 ---
 permalink: /people/
-layout: default
 title: People not systems
 ---
 <a name="people"></a>

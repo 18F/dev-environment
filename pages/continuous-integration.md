@@ -1,6 +1,5 @@
 ---
 permalink: /continuous-integration/
-layout: default
 title: Continuous integration 
 ---
 <a name="continuous-integration"></a>

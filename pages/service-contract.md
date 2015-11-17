@@ -1,6 +1,5 @@
 ---
 permalink: /service-contracts/
-layout: default
 title: Service contracts
 ---
 <a name="service-contract"></a>

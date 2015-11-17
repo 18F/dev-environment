@@ -1,6 +1,5 @@
 ---
 permalink: /build-promotion/
-layout: default
 title: Build promotion
 ---
 <a name="build-promotion"></a>

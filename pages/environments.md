@@ -1,6 +1,5 @@
 ---
 permalink: /environments/
-layout: default
 title: Environments
 ---
 <a name="environments"></a>

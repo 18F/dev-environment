@@ -1,6 +1,5 @@
 ---
 permalink: /updates/
-layout: default
 title: Update schedule
 ---
 <a name="update-schedule"></a>
