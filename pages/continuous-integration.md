@@ -45,7 +45,7 @@ To avoid this, we follow these best practices:
 ### Typical workflow
 A typical workflow for continuous integration might look something like this:
 
-1. The developer checks out code from repository(version control).
+1. The developer checks out code from repository (version control).
 2. The developer makes changes to code and checks in changes to repository.
 3. The continuous integration (CI) server detects changes in repository.
 4. The CI server checks out latest changes.
