@@ -7,5 +7,4 @@ There is a defined support contract specifying a base-line level of service and 
 This should include but isn't limited to:
 
 * System configuration is managed in a version control system and should be automatically applied for consistency.
-* The installed base operating system is pre-configured with approved software repositories (like YUM or Debian). These software repositories allow for a consistent install, configuration, and upgrades for various common components like PHP or Java.
-
+* The base operating system has a defined set of installed packages and versions from defined sources. Using the system's standard tools and repositories ensures that anyone can easily configure a new system to match the standard baseline for a particular project and provides a well-tested path for orderly upgrades to every component.
