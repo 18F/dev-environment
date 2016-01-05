@@ -25,4 +25,4 @@ Some of these benefits are:
 * Health check of systems
 
 ###Tools and Further Reading
-Check out O'Reily's [The Environment Is Automated in the Code](http://sites.oreilly.com/odewahn/dds-field-guide/ch06.html) and [Tests Done in Code, Not by a QA Department](http://sites.oreilly.com/odewahn/dds-field-guide/ch08.html) for more information and various tools for implementation.
+Check out O'Reilly's [The Environment Is Automated in the Code](http://sites.oreilly.com/odewahn/dds-field-guide/ch06.html) and [Tests Done in Code, Not by a QA Department](http://sites.oreilly.com/odewahn/dds-field-guide/ch08.html) for more information and various tools for implementation.

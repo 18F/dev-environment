@@ -54,4 +54,4 @@ A typical workflow for continuous integration might look something like this:
 7. If changes are *NOT* successful, alert developers of broken build, and possibly roll back changes. Go to step #2.
 
 ### CI Servers Deploy Code, Not Ops
-O'Reily has a field guide to using continuous integration that also list a number of tools. You can find it at [CI Servers Deploy Code, Not Ops](http://sites.oreilly.com/odewahn/dds-field-guide/ch03.html)
+O'Reilly has a field guide to using continuous integration that also list a number of tools. You can find it at [CI Servers Deploy Code, Not Ops](http://sites.oreilly.com/odewahn/dds-field-guide/ch03.html)
