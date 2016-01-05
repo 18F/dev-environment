@@ -9,6 +9,7 @@ Usually you'll need at least four environments, each servering a different purpo
 * Dev (development)
     * Developers have free rein (admin) to do whatever they need to for development, such as install software for evaluation, test new architecures, or test production install instructions. 
     * Code changes from development will most likely create new test builds.
+    * The development system is able to run the entire application(s) locally ([The Entire Application Runs Locally in Development](http://sites.oreilly.com/odewahn/dds-field-guide/ch05.html)).
 * Test
     * Developers combine code from everyone and test to ensure they merged correctly and it works as expected. 
     * Builds that pass in test can be passed to staging for possible use in production.
@@ -24,3 +25,8 @@ Usually you'll need at least four environments, each servering a different purpo
     * Production also has a well defined process for deploying new test builds that have been promoted. See the [Build Promotion] ({{site.baseurl}}/build-promotion/) section.
 
 Note: Most (if not all) environments will need the full set of developer tools. Also, each environment should be sandboxed from each other to prevent resources from accidents.
+
+####Monitoring
+Applications mysteriously failing? Disks have filled to capacity for the 100th time? Everything is working...just VERY SLOWLY? Etc. There is a whole host of problems (bugs) that are difficult or impossible to find without good comprehensive monitoring of the environments. 
+A good starting point would be O'Reilly's [The Monitoring Infrastructure Is Critical](http://sites.oreilly.com/odewahn/dds-field-guide/ch07.html) which lists lots of tools that can help with this ongoing problem.
+

@@ -23,3 +23,6 @@ Some of these benefits are:
     * Load testing
     * Code quality metrics and conventions
 * Health check of systems
+
+###Tools and Further Reading
+Check out O'Reilly's [The Environment Is Automated in the Code](http://sites.oreilly.com/odewahn/dds-field-guide/ch06.html) and [Tests Done in Code, Not by a QA Department](http://sites.oreilly.com/odewahn/dds-field-guide/ch08.html) for more information and various tools for implementation.
